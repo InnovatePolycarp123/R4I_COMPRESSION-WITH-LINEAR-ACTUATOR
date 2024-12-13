@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.2*%
+%TF.CreationDate,2024-12-10T11:29:45+01:00*%
+%TF.ProjectId,R4I_LINEAR_ACTUATOR_CONTROL,5234495f-4c49-44e4-9541-525f41435455,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.2) date 2024-12-10 11:29:45*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X52306000Y-64948000D02*
+X132100000Y-64948000D01*
+X132100000Y-129352000D01*
+X52306000Y-129352000D01*
+X52306000Y-64948000D01*
+M02*
